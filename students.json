@@ -3,14 +3,16 @@
         {
             "name": "Juan Carlos",
             "lastName": "Bodoque",
-            "grade" : "50",
-            "subject" : "periodismo"
+            "grade" : 50,
+            "subject" : "periodismo",
+            "id": 1
         },
         {
             "name": "uzi",
             "lastName": "doorman",
-            "grade" : "45",
-            "subject" : "redaccion"
+            "grade" : 45,
+            "subject" : "redaccion",
+            "id": 2
         }
     ]
 }
